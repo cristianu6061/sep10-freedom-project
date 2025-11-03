@@ -8,10 +8,17 @@
 <p> </p>
 
 ## EDP
+<p> </p>
 
 ## Skills
+<p> </p>
+<ul>
+   <li></li>
 
-##
+  
+</ul>
+
+## Next Steps
 
 [Previous](entry01.md) | [Next](entry03.md)
 

@@ -37,7 +37,24 @@ Topic: **X**
   * website strictly for construction so it isn't confusing
 ### Hardware
 * 1st google search: " Construction technology"
-* 
+* I found a website called <a link href="https://www.dustyrobotics.com/articles/what-is-construction-technology"> Dusty Robotics </a> that had catagories of technology
+* One of the catagories was Robotics
+  * Robotics helps in demolition, laying materials, and excavation
+  * because robotics does all those things, employee safety improves a lot
+  * reduces manual labor
+  * increases efficiency
+  * lets construction workers focus on less physically demanding tasks
+* Second catagory I found was 3rd printing
+  * decreases costs for materials
+  * increases building time
+  * makes complex designs
+  * makes parts for buildings or furnature
+* The 3rd catagory I found was drones
+  * drones inspect active and potential sites
+  * drones are safer for inspections bc if something were to happen to the drone you can make another one
+  * more efficient bc they can look into more smaller spaces that a human cannot
+ 
+   
 
   
 

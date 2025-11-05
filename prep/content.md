@@ -36,7 +36,8 @@ Topic: **X**
   * organizes profits and expenses
   * website strictly for construction so it isn't confusing
 ### Hardware
-  
+* 1st google search: " Construction technology"
+* 
 
   
 

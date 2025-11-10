@@ -2,8 +2,8 @@
 Topic: **X**
 
 ## Overview/Introduction/Context
-* Text
-* Text
+* Construction is a field of work that has created all the buildings and furnature that you see around you everyday.
+* The technology for construction is progessing rapidly in this century. I will show you apps and hardware that have been made for construction. 
 
 ## Part A: existing technology
 ### Software

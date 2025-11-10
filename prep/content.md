@@ -46,7 +46,7 @@ Topic: **X**
   * lets construction workers focus on less physically demanding tasks
 * Second catagory I found was 3rd printing
   * decreases costs for materials
-  * increases building time
+  * decreases building time
   * makes complex designs
   * makes parts for buildings or furnature
 * The 3rd catagory I found was drones

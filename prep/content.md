@@ -3,8 +3,36 @@ Topic: **X**
 
 ## Overview/Introduction/Context
 * Construction is a field of work that has created all the buildings and furnature that you see around you everyday.
-* The technology for construction is progessing rapidly in this century. I will show you apps and hardware that have been made for construction. 
+* The technology for construction is progessing rapidly in this century. I will show you apps and hardware I have found that have been made for construction.
+* I found 2 websites. One was called <a link href="https://www.dustyrobotics.com/articles/what-is-construction-technology"> Dusty Robotics </a> that had catagories of technology. It had robotics, 3D printing and drones. 2nd website was called <a link href="https://thedigitalprojectmanager.com/tools/best-construction-project-management-software/"> DPM</a> that had websites that helped in construction. It had websites like <a link href="https://contractorforeman.com/?utm_source=crozdesk&utm_medium=paid&utm_campaign=list"> Contractor Foreman</a>, 
 
+## Catagories
+* Contractor
+  * <a link href="https://contractorforeman.com/?utm_source=crozdesk&utm_medium=paid&utm_campaign=list"> Contractor Foreman</a>:
+
+  * paid service
+  
+  * training service to become a good contractor
+  
+  * organizes estimates, expenses, bills, etc.
+  
+  * calander for meetings, calls, incidents, etc.
+  
+  * has templetes for documents and has custom PDF language feature
+  
+  
+* Construction Worker
+  * 3D printing:
+  * decreases costs for materials
+  * decreases building time
+  * makes complex designs
+  * makes parts for buildings or furnature
+
+* Inspectors
+  * Drones:
+  * Drones inspect active and potential sites
+  * Drones are safer for inspections bc if something were to happen to the drone you can make another one
+  * More efficient bc they can look into more smaller spaces that a human cannot 
 ## Part A: existing technology
 ### Software
 * 1st search: "Construction apps"

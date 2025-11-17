@@ -43,7 +43,6 @@ Topic: **X**
   * reduces manual labor
   * increases efficiency
   * lets construction workers focus on less physically demanding tasks
-* Second catagory I found was 3rd printing
 
 * Inspectors
   * Drones:

@@ -36,6 +36,7 @@ Topic: **X**
   * decreases building time
   * makes complex designs
   * makes parts for buildings or furnature
+    ![3D Printer](what-is-3d-printing-thumb-1172x660.avif)
     
   * **Robotics:**
   * Robotics helps in demolition, laying materials, and excavation

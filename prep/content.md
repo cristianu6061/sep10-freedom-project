@@ -44,6 +44,7 @@ Topic: **X**
   * reduces manual labor
   * increases efficiency
   * lets construction workers focus on less physically demanding tasks
+![Robot](Is-Automated-Construction-in-the-Horizon_-13.jpg)
     
   ### Inspectors
   * **Drones:**

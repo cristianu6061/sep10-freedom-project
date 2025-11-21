@@ -51,4 +51,5 @@ Topic: **X**
   * Drones inspect active and potential sites
   * Drones are safer for inspections bc if something were to happen to the drone you can make another one
   * More efficient bc they can look into more smaller spaces that a human cannot
+![Drones](drones.jpeg)
 

@@ -14,7 +14,7 @@ Topic: **X**
   * organizes estimates, expenses, bills, etc.  
   * calander for meetings, calls, incidents, etc.  
   * has templetes for documents and has custom PDF language feature
-  
+ 
   * **<a link href="https://crewcost.com/?utm_campaign=25151856-Referral%20Sites&utm_source=The%20Digital%20Project%20Manager"> Crew Cost</a>:**
   * can be used on computer 
   * good for managing projects
@@ -44,7 +44,7 @@ Topic: **X**
   * reduces manual labor
   * increases efficiency
   * lets construction workers focus on less physically demanding tasks
-
+    
   ### Inspectors
   * **Drones:**
   * Drones inspect active and potential sites

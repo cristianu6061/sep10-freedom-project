@@ -60,7 +60,7 @@ Topic: **X**
 * Boots that help workers reach high places
 * Good for safety since a ladder can fall
 * Much more easier than a ladder
-
+![Extending Boots](boots.png)
 ## AI Managers
 * AI Robots that manage all taxes, estimates, etc.
 * Good for fast organization
@@ -70,7 +70,7 @@ Topic: **X**
 * A device that displays building ideas right in front of you
 * Good for seeing what your design would actually look like on the build site
 * Good to see what flaws would be in your design so you can avoid building
-
+![Holographic Building](building.png)
 # Self Healing Buildings
 * Buidings that automatically fix damage
 * Much less time consuming for repairs
@@ -82,4 +82,4 @@ Topic: **X**
 * Can save lots of lifes
 * Nanotech so it can block the sharpest of tools
 * Nanotech armor robots can travel to all parts of the body to prevent all accidents
-
+![Armor](armor.png)

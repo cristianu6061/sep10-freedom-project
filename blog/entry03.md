@@ -7,6 +7,14 @@
 ## Content
 <p> Since blog 2, I have realized there has been a problem with my research. It was hard to read my information. It was messy and not very organized. So, I decided to make it more neat. I thought of a way to seperate my research into catagories. I made 3 catagories. They were construction workers, contractors and inspectors. In these catagories, I put research from part A and B that corresponded with the catagory. In construction worker, I put 3D printing and robotics since 3D printing makes parts and robotics does physical labor. In contractors, I put drones since inspectors can use drones for potential sites. Finally, in contractors I put all the part A information since all of part A was mostly useful towards contractors. </p>
 
+## EDP
+<p> Currently, I am done with researching and brainstorming. I am now on the step of planning the most promising solution. To do this, I wil start looking at my research and maybe put it on a webpage.</p>
+
+## Skills
+Skills I've gotten better at and learned are micro-managing, time management and organizing.
+
+
+
 [Previous](entry02.md) | [Next](entry04.md)
 
 [Home](../README.md)

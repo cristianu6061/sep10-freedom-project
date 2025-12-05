@@ -1,7 +1,11 @@
 # Entry 3
-##### X/X/XX
+##### 12/5/25
 
-Text
+## Context
+<p> In order to finalize my research on construction technology, I have organized my research. In this blog, I will show how I organized my information and more.</p>
+
+## Content
+<p> Since blog 2, I have realized there has been a problem with my research. It was hard to read my information. It was messy and not very organized. So, I decided to make it more neat. I thought of a way to seperate my research into catagories. I made 3 catagories. They were construction workers, contractors and inspectors. In these catagories, I put research from part A and B that corresponded with the catagory. In construction worker, I put 3D printing and robotics since 3D printing makes parts and robotics does physical labor. In contractors, I put drones since inspectors can use drones for potential sites. Finally, in contractors I put all the part A information since all of part A was mostly useful towards contractors. </p>
 
 [Previous](entry02.md) | [Next](entry04.md)
 

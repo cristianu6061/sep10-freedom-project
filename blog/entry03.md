@@ -11,7 +11,27 @@
 <p> Currently, I am done with researching and brainstorming. I am now on the step of planning the most promising solution. To do this, I wil start looking at my research and maybe put it on a webpage.</p>
 
 ## Skills
-Skills I've gotten better at and learned are micro-managing, time management and organizing.
+Skills I've gotten better at and learned are communication, time management and organizing.
+
+### Communication
+<ul>
+  <li> Throughout the whole research organizing part, I was very confused. I didn't know what catagories to make. That's when I learned to talk to others and through that I came up with ideas for the catagories.</li>
+</ul>
+
+### Time Management
+<ul>
+  <li> Throughout this whole process, I've been very busy. I have had many projects and tests. Especially this week when writing my blog. So, I have made a way so that more important assignments get done first while less grade-impacting assignements get done last.</li>
+</ul>
+
+### Organizing
+<ul>
+   <li> Before the research organization part, I didn't prioritize organization much. After this, I realized how imoortant organization is and how easy it is to process information when stuff is organized. </li>
+
+## Next Steps
+<p> My next steps are to create a plan for the most promising solution.</p>
+  
+</ul>
+   
 
 
 

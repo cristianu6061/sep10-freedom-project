@@ -8,7 +8,18 @@ To make the boxes into a column, I used
 ``` css
 flex-direction:column
 ```
-To make the boxes, I made a container div with a grey background color and didn't make the width too big so it would fit nice. I then put the div on some text. My work is shown below:
+To make the boxes, I made a container div with a grey background color and didn't make the width too big so it would fit nice. I used:
+``` css
+.container div {
+  background-color: #f1f1f1;
+  width: 90px;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  font-size: 30px;
+```
+
+I then put the div on some text. My work is shown below:
 <img src="../prep/ide.png" alt="ide work">
 
 The preview of my tinkering is also shown below:

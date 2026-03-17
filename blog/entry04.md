@@ -19,7 +19,16 @@ To make the boxes, I made a container div with a grey background color and didn'
   font-size: 30px;
 ```
 
-I then put the div on some text. My work is shown below:
+I then put the div on some text. Like this:
+``` css
+<div class="container">
+  <div>1</div>
+  <div>2</div>
+  <div>3</div>
+</div>
+```
+
+My work is shown below:
 <img src="../prep/ide.png" alt="ide work">
 
 The preview of my tinkering is also shown below:

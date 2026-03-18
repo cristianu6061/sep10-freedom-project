@@ -38,6 +38,20 @@ The preview of my tinkering is also shown below:
 
 # Sources
 
+In order to learn about my tool, I used <a href="https://www.w3schools.com/css/css3_flexbox.asp">W3schools flexbox page.</a> In there, I learned lots about how to use flexbox and how to make boxed columns and rows with `flex-directio`
+
+# Skills
+Skills I've learned are tinkering and time efficiency.
+
+### Tinkering
+For this blog, I've had to tinker and mess around with tools. This really caught me that in order to learn about something, you need to mess around with it.
+
+### Time Efficiency
+During the time of the blog, the marking period was ending and I had to do many tests. In order to finish everything, I had to split everything up. This taught me that in order to finish things, you need to split up the work efficiently.
+
+
+
+
 
 
 [Previous](entry03.md) | [Next](entry05.md)

@@ -38,7 +38,7 @@ The preview of my tinkering is also shown below:
 
 # Sources
 
-In order to learn about my tool, I used <a href="https://www.w3schools.com/css/css3_flexbox.asp">W3schools flexbox page.</a> In there, I learned lots about how to use flexbox and how to make boxed columns and rows with `flex-directio`
+In order to learn about my tool, I used <a href="https://www.w3schools.com/css/css3_flexbox.asp">W3schools flexbox page.</a> In there, I learned lots about how to use flexbox and how to make boxed columns and rows with `flex-direction`
 
 # Skills
 Skills I've learned are tinkering and time efficiency.

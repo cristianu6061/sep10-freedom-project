@@ -1,14 +1,16 @@
 # Tool Learning Log
 
-## Tool: **W3 Flexbox**
+## Tool: **W3Schools Flexbox **
 
 ---
 
-### X/X/XX:
+### 3/16/26:
 * Text
 
-### X/X/XX:
-* Text
+### 3/23/26:
+* I used <a href="https://www.w3schools.com/CSS/css3_flexbox.asp"> this website</a> and <a href="https://www.youtube.com/watch?v=nuXahrkx_9s"> this youtube video.</a> 
+* 
+
 
 
 <!-- 

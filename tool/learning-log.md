@@ -77,7 +77,6 @@ I used the same <a href="https://www.w3schools.com/CSS/css3_flexbox_items.asp">w
 
 </body>
 </html>
-```
 
 <div class="flex-container">
   <div style="order: 4">Text 1</div>

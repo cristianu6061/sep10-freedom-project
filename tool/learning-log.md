@@ -41,7 +41,7 @@ I used <a href="https://www.w3schools.com/CSS/css3_flexbox_items.asp"> this webs
 </body>
 </html>
 
-
+```
 
   I also messed around with code like flex-grow. I made 1 box 2x the size of the other boxes. I learned that the more you try to make the box multiply in size, the less it grows. 
 

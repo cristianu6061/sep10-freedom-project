@@ -85,6 +85,7 @@ I used the same <a href="https://www.w3schools.com/CSS/css3_flexbox_items.asp">w
   <div style="order: 2">Text 4</div>
 </div>
 ```
+I can use this in my freedom project to put the images in any order I'd like.
 
 
 

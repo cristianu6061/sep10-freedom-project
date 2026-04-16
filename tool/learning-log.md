@@ -44,6 +44,49 @@ I used <a href="https://www.w3schools.com/CSS/css3_flexbox_items.asp"> this webs
 
   I also messed around with code like flex-grow. I made 1 box 2x the size of the other boxes. I learned that the more you try to make the box multiply in size, the less it grows. 
 
+Day 2:
+I used the same <a href="https://www.w3schools.com/CSS/css3_flexbox_items.asp">website</a> as yesterday. I tried to learn how to change the order of boxes. I read about it then used the try it yourself. I found out first you need to create a container div, put it around your text, then use `<div style="order: 3">something</div>`. For example:
+``` CSS
+<html>
+<head>
+<style>
+.container {
+  display: flex;
+  background-color: dodgerblue;
+}
+
+.container div {
+  background-color: #f1f1f1;
+  color:#000;
+  width: 100px;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  font-size: 30px;
+}
+</style>
+</head>
+<body>
+
+<div class="container">
+  <div style="order: 3">1</div>
+  <div style="order: 2">2</div>
+  <div style="order: 4">3</div> 
+  <div style="order: 1">4</div>
+</div>
+
+</body>
+</html>
+```
+
+<div class="flex-container">
+  <div style="order: 4">Text 1</div>
+  <div style="order: 1">Text 2</div>
+  <div style="order: 3">Text 3</div>
+  <div style="order: 2">Text 4</div>
+</div>
+```
+
 
 
 <!-- 

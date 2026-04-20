@@ -87,6 +87,9 @@ I used the same <a href="https://www.w3schools.com/CSS/css3_flexbox_items.asp">w
 ```
 I can use this in my freedom project to put the images in any order I'd like.
 
+Day 3:
+I decided to put my knowledge of flex box and make a mini website to try out once more some of the stuff I've learned. The link is <a href="https://app.pickcode.io/project/cmo2vfhz150ce9zlpixh7zzzj">here</a>
+
 
 
 <!-- 

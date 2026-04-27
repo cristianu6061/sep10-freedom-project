@@ -5,7 +5,10 @@
 * [Desktop](https://wireframe.cc/lwQll7)
 
 ## Colors
-* `#ABC123`
+* `#277CA4` Blue Raspberry
+* '#0cbfe9'
+* `#000000` Black
+* `#FFFFFF` White
 
 ## Fonts
 * [Text](URL)

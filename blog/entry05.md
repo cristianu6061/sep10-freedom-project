@@ -3,7 +3,7 @@
 
 ## Content
 
-  Since blog 4, I have been learning more about the tool I chose for the freedom project (W3Schools Flexbox). I have learned most of what there is to learn about fle
+  Since blog 4, I have been learning more about the tool I chose for the freedom project (W3Schools Flexbox). I have learned most of what there is to learn about flexbox. I learned how to use columns, rows, `order`, `flex-end`, etc.
 
 
 [Previous](entry04.md) | [Next](entry06.md)

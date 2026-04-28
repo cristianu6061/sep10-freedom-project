@@ -14,6 +14,8 @@
 * <a href="https://app.pickcode.io/project/cmo2vfhz150ce9zlpixh7zzzj">Mini Project </a>
 * <a href="https://www.w3schools.com/css/css3_flexbox_items.asp"> WW3 Schools</a>
 
+## Skills
+
 [Previous](entry04.md) | [Next](entry06.md)
 
 [Home](../README.md)

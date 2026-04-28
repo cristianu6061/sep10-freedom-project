@@ -15,6 +15,17 @@
 * <a href="https://www.w3schools.com/css/css3_flexbox_items.asp"> WW3 Schools</a>
 
 ## Skills
+Skills I've learned are tinkering and time efficiency.
+
+### Tinkering
+For this blog, I've had to tinker and mess around with tools. This really caught me that in order to learn about something, you need to mess around with it.
+
+### Time Efficiency
+During the time of the blog, the marking period was ending and I had to do many tests. In order to finish everything, I had to split everything up. This taught me that in order to finish things, you need to split up the work efficiently.
+
+
+
+
 
 [Previous](entry04.md) | [Next](entry06.md)
 

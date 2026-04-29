@@ -28,7 +28,7 @@
 ## Timeline
 4/29-Add background
 4/30-Add necessary css
-5/1- 
+5/1-
 
 #### MVP
 

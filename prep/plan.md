@@ -11,7 +11,19 @@
 * `#FFFFFF` White
 
 ## Fonts
-* [Text](URL)
+<!--
+// <weight>: Use a value from 100 to 900
+// <uniquifier>: Use a unique and descriptive class name
+
+.outfit-<uniquifier> {
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+
+}
+-->
+* [Outfit]https://fonts.google.com/specimen/Outfit?query=Outfit&preview.script=Latn)
 
 ## Timeline
 

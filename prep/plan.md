@@ -23,7 +23,7 @@
 
 }
 -->
-* [Outfit]https://fonts.google.com/specimen/Outfit?query=Outfit&preview.script=Latn)
+* [Outfit](https://fonts.google.com/specimen/Outfit?query=Outfit&preview.script=Latn)
 
 ## Timeline
 

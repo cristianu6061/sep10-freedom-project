@@ -26,6 +26,9 @@
 * [Outfit](https://fonts.google.com/specimen/Outfit?query=Outfit&preview.script=Latn)
 
 ## Timeline
+4/29-Add background
+4/30-Add necessary css
+5/1- 
 
 #### MVP
 

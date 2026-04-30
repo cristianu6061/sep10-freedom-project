@@ -28,13 +28,29 @@
 ## Timeline
 4/29-Add background
 
-4/30-Add necessary css
+4/30-Add headings
 
-5/1-
+5/1- Add extra text 
+
+5/2-Add components
+
+5/3- Finish up MVP
+
+5/4- Add fonts
+
+5/5-
 
 #### MVP
 
-* Task/Timeline
+4/29-Add background
+
+4/30-Add headings
+
+5/1- Add extra text 
+
+5/2-Add components
+
+5/3- FInish up MVP
 
 ---
 

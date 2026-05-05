@@ -68,7 +68,7 @@
 #### Peer Feedback 
 
 | Name | Glows | Grows |
-| -------- | ------- | ------- |
+| Stephanie | I love the color theme it gives a technology vibe towards your topic construction, I also like the structures of how every information is boxed and organized, I most specifically like the navbar its so cool that you added the theme on top of the navbar so I get an idea of what I'll be viewing by it being in the center |What I would recommend is choosing a different font to make it look more cool, and try not to let the categories box take up alot of space|
 |  |  |  |
 |  |  |  |
 |  |  |  |

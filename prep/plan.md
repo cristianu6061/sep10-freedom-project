@@ -5,25 +5,17 @@
 * [Desktop](https://wireframe.cc/lwQll7)
 
 ## Colors
-* `#277CA4` Blue Raspberry
 * `#0cbfe9`
-* `#000000` Black
-* `#FFFFFF` White
+* `#000000` 
+* `#222` White
+* `444`
+* `666`
+* `#D3D3D3` grey
 
 ## Fonts
-<!--
-// <weight>: Use a value from 100 to 900
-// <uniquifier>: Use a unique and descriptive class name
+* Sans-serif
+* Arial
 
-.outfit-<uniquifier> {
-  font-family: "Outfit", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
-
-}
--->
-* [Outfit](https://fonts.google.com/specimen/Outfit?query=Outfit&preview.script=Latn)
 
 ## Timeline
 4/29-Add background
@@ -32,13 +24,13 @@
 
 5/1- Add extra text 
 
-5/2-Add components
+5/2-Add nav
 
 5/3- Finish up MVP
 
 5/4- Add fonts
 
-5/5-
+5/5- Add beyond MVP
 
 #### MVP
 
@@ -56,7 +48,9 @@
 
 #### Beyond MVP
 
-* Task
+* Add Images
+* Add fonts
+* Fix any grammar mistakes
 
 
 

@@ -1,16 +1,16 @@
 # Presentation Plan
 
 ## Hook
-* 
+* Do you know there are 173,200 construction accidents a year? 
 
 ## Product
-* 
+* My project is on construction technology. My project is about future technology like nanotech armor and present technology such as drones.
 
 ## Process
 * 
 
 ## Conclusion
-* 
+* <a href="https://cristianu6061.github.io/sep10-freedom-project/"> Link to project</a>
 
 <!-- EXAMPLE
 

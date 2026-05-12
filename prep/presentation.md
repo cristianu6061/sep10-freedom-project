@@ -4,7 +4,7 @@
 * Do you know there are 173,200 construction accidents a year? 
 
 ## Product
-* My project is on construction technology. My project is about future technology like nanotech armor and present technology such as drones.
+* This is my <a href="https://cristianu6061.github.io/sep10-freedom-project/">final project</a>. My project is on construction technology. My project is about future technology and present technology. One of my future technologies is extending boots. This allows for workers to use ladder-like boots that extend to let workers reach high heights without risks of falling. 
 
 ## Process
 * 

@@ -7,8 +7,8 @@
 ## Product
 * This is my <a href="https://cristianu6061.github.io/sep10-freedom-project/">final project</a>. My project is on construction technology. My project is about future technology and present technology. One of my future technologies is extending boots. This allows for workers to use ladder-like boots that extend to let workers reach high heights without risks of falling. 
 
-## Process
-* This project was a very long process. I first had to research about existing technology. I labeled this part A and l
+## Processooked up d
+* This project was a very long process. I first had to research about existing technology. I labeled this "existung technology" and looked up differetn softwares and hardwares that already existed for construction. After I found existing technology, I then came up  with 5 ideas for the future which I named this "Future Inventions". After this, I had to learn a tool to use for my project. So, I learned a tool called flexbox. Flexbox basically lets you learn 
 
 ## Conclusion
 * <a href="https://cristianu6061.github.io/sep10-freedom-project/"> Link to project</a>

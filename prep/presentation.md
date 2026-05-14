@@ -7,11 +7,12 @@
 ## Product
 * This is my <a href="https://cristianu6061.github.io/sep10-freedom-project/">final project</a>. My project is on construction technology. My project is about future technology and present technology. One of my future technologies is extending boots. This allows for workers to use ladder-like boots that extend to let workers reach high heights without risks of falling. 
 
-## Processooked up d
-* This project was a very long process. I first had to research about existing technology. I labeled this "existung technology" and looked up differetn softwares and hardwares that already existed for construction. After I found existing technology, I then came up  with 5 ideas for the future which I named this "Future Inventions". After this, I had to learn a tool to use for my project. So, I learned a tool called flexbox. Flexbox basically lets you learn 
+## Process
+* This project was a very long process. I first had to research about existing technology. I labeled this "existung technology" and looked up differetn softwares and hardwares that already existed for construction. After I found existing technology, I then came up  with 5 ideas for the future which I named this "Future Inventions". After this, I had to learn a tool to use for my project. So, I learned a tool called flexbox. Flexbox basically lets you learn how to create rows and columns and allows you to make cards with these rows and columns. I learned how to use flex order, flex grow and flex column. After this, I then needed to make a plan for how my website would look. So I started planning my design and came up with the design of my project.
 
 ## Conclusion
-* <a href="https://cristianu6061.github.io/sep10-freedom-project/"> Link to project</a>
+* Throughout this project, I learned how to use tools effectively to help me. Flexboxes containers helped me create cards to put my content in. Without it my content would look a mess.
+* Overall, this project has made me really learn to be creative and I hope this project will inspire others to be creative too. Thank you for listening.
 
 <!-- EXAMPLE
 

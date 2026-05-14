@@ -1,7 +1,7 @@
 # Presentation Plan
 
 ## Hook
-* Do you know there are 173,200 construction accidents a year? 
+* Do you know there are 173,200 construction accidents a year? Maybe there would be less if people just looked at my freedom project.
 
 
 ## Product

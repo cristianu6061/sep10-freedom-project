@@ -8,10 +8,29 @@
 * This is my <a href="https://cristianu6061.github.io/sep10-freedom-project/">final project</a>. My project is on construction technology. My project is about future technology and present technology. One of my future technologies is extending boots. This allows for workers to use ladder-like boots that extend to let workers reach high heights without risks of falling. 
 
 ## Process
-* This project was a very long process. I first had to research about existing technology. I labeled this "existung technology" and looked up differetn softwares and hardwares that already existed for construction. After I found existing technology, I then came up  with 5 ideas for the future which I named this "Future Inventions". After this, I had to learn a tool to use for my project. So, I learned a tool called flexbox. Flexbox basically lets you learn how to create rows and columns and allows you to make cards with these rows and columns. I learned how to use flex order, flex grow and flex column. After this, I then needed to make a plan for how my website would look. So I started planning my design and came up with the design of my project.
+* This project was a very long process. I first had to research about existing technology. I labeled this "existung technology" and looked up differetn softwares and hardwares that already existed for construction. After I found existing technology, I then came up  with 5 ideas for the future which I named this "Future Inventions". After this, I had to learn a tool to use for my project. So, I learned a tool called flexbox. Flexbox basically lets you learn how to create rows and columns and allows you to make cards with these rows and columns. I learned how to use different flexbox codes. For example `<div style="order: 2">1</div>`, `<div style="flex-grow: 3">hi</div>` and `<div class="column-container"> <div>hi</div> </div>`. In order to make the actual card css for flexbox, I did:
+```CSS
+   .container {
+    display: flex;
+    background-color: red;
+    }
+    .container div {
+  background-color: #f1f1f1;
+  color:#000;
+  width: 100px;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  font-size: 30px;
+    }
+```
+* After this, I then needed to make a plan for how my website would look. So I started planning my design and came up with the design of my project.
 
 ## Conclusion
-* Throughout this project, I learned how to use tools effectively to help me. Flexboxes containers helped me create cards to put my content in. Without it my content would look a mess.
+* Throughout this project, I learned how to use tools effectively to help me. Flexboxes containers helped me create cards to put my content in. Without it my content would look a mess. If my website didn't have cards it would look like this:
+![Website](card.png)
+
+It looks basic and bland
 * Overall, this project has made me really learn to be creative and I hope this project will inspire others to be creative too. Thank you for listening.
 
 <!-- EXAMPLE
